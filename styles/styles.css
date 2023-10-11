@@ -1,0 +1,34 @@
+img {
+    width: 500px;
+    height: 300px;
+    margin:;
+    justify-content: center;
+    display: block;
+}
+
+body {
+    background-color: aqua;
+    padding: 20px;
+}
+
+time {
+    display: block;
+    float: right;
+}
+
+.link:hover {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0 auto auto;
+    padding: 20px auto;
+}
+
+article {
+    background-color: aquamarine;
+    margin: 0 auto auto;
+    padding: 20px;
+}
