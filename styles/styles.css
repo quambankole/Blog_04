@@ -1,7 +1,7 @@
 img {
     width: 500px;
     height: 300px;
-    justify-content: center;
+    align-items:center;
     display: block;
 }
 
